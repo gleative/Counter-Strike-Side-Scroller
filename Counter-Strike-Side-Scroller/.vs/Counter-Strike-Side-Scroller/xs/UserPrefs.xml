@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{8C7B8642-DDB8-464E-A690-167AA329C7C1}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Shared/GameViewController.cs">
+    <Files>
+      <File FileName="Shared/GameViewController.cs" Line="12" Column="2" />
+      <File FileName="Shared/GameScene.cs" Line="33" Column="31" />
+      <File FileName="Shared/Player.cs" Line="13" Column="35" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Counter-Strike-Side-Scroller FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Counter-Strike-Side-Scroller.IOS FirstBuild="True">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.Counter-Strike-Side-Scroller.IOS>
+  <MonoDevelop.Ide.ItemProperties.Counter-Strike-Side-Scroller.Mac PreferredExecutionTarget="Test1" />
+  <MultiItemStartupConfigurations />
+</Properties>
